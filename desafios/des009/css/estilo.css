@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(27, 27, 27);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 20pt;
+}
+
+div {
+    display: block;
+    width: 410px;
+    margin: auto;
+}
+
+img {
+    display: inline-block;
+    padding: -1px;
+    margin: -1px;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: rgb(80, 80, 80);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

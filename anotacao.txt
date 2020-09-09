@@ -1,0 +1,8 @@
+Anotação de HTML5
+
+---- Imagens Dinamica ----
+
+Element Picture
+
+Para adicionar uma imagem que redimensiona de acordo com o tamanho da tela,
+existe uma tag chamada picture, nessa tag poderá conter vários sources.
